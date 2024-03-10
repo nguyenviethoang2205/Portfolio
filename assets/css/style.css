@@ -37,8 +37,9 @@ body {
 }
 
 .avatar-icon{
-    width: 150px;
+    width: 300px;
     border-radius: 50%;
+    height: 310px;
 }
 
 .information-title{
